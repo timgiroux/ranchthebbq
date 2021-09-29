@@ -7,15 +7,15 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 0,
-  "bbox_right": 863,
-  "bbox_top": 0,
-  "bbox_bottom": 863,
+  "bbox_left": 1,
+  "bbox_right": 27,
+  "bbox_top": 2,
+  "bbox_bottom": 26,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 864,
-  "height": 864,
+  "width": 30,
+  "height": 30,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"be21aff3-1302-4e39-9a51-8e6134adc140","path":"sprites/spr_backyard/spr_backyard.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"be21aff3-1302-4e39-9a51-8e6134adc140","path":"sprites/spr_backyard/spr_backyard.yy",},"LayerId":{"name":"5b6eecc5-2928-4c27-8a8e-8648d7fa8b4c","path":"sprites/spr_backyard/spr_backyard.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_backyard","path":"sprites/spr_backyard/spr_backyard.yy",},"resourceVersion":"1.0","name":"be21aff3-1302-4e39-9a51-8e6134adc140","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"0fe6c3c9-3ef3-49d5-bbd5-6857cee3cb95","path":"sprites/spr_redhouse/spr_redhouse.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"0fe6c3c9-3ef3-49d5-bbd5-6857cee3cb95","path":"sprites/spr_redhouse/spr_redhouse.yy",},"LayerId":{"name":"d858e594-8fa6-4c8c-9310-6406a3d46aa8","path":"sprites/spr_redhouse/spr_redhouse.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_redhouse","path":"sprites/spr_redhouse/spr_redhouse.yy",},"resourceVersion":"1.0","name":"0fe6c3c9-3ef3-49d5-bbd5-6857cee3cb95","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_backyard","path":"sprites/spr_backyard/spr_backyard.yy",},
+    "spriteId": {"name":"spr_redhouse","path":"sprites/spr_redhouse/spr_redhouse.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"0a15216c-a6c9-47e7-ba91-f952af04a4e4","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"be21aff3-1302-4e39-9a51-8e6134adc140","path":"sprites/spr_backyard/spr_backyard.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"3af2e2e3-a1b8-43c0-8d70-2078b7ba702f","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0fe6c3c9-3ef3-49d5-bbd5-6857cee3cb95","path":"sprites/spr_redhouse/spr_redhouse.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_backyard","path":"sprites/spr_backyard/spr_backyard.yy",},
+    "parent": {"name":"spr_redhouse","path":"sprites/spr_redhouse/spr_redhouse.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_backyard",
+    "name": "spr_redhouse",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"5b6eecc5-2928-4c27-8a8e-8648d7fa8b4c","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"d858e594-8fa6-4c8c-9310-6406a3d46aa8","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_backyard",
+  "name": "spr_redhouse",
   "tags": [],
   "resourceType": "GMSprite",
 }

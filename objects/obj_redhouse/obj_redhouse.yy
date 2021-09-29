@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_start_button",
-    "path": "sprites/spr_start_button/spr_start_button.yy",
+    "name": "spr_redhouse",
+    "path": "sprites/spr_redhouse/spr_redhouse.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,10 +20,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":7,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -31,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_start_button",
+  "name": "obj_redhouse",
   "tags": [],
   "resourceType": "GMObject",
 }
