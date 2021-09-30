@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_tiny_aj",
-    "path": "sprites/spr_tiny_aj/spr_tiny_aj.yy",
+    "name": "spr_aj",
+    "path": "sprites/spr_aj/spr_aj.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,10 +20,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":8,"eventType":7,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -31,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_tiny_aj",
+  "name": "obj_aj",
   "tags": [],
   "resourceType": "GMObject",
 }

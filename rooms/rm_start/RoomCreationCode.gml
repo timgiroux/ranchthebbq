@@ -13,3 +13,5 @@ with(inst_aj){
 with(inst_tim){
 	TweenFire(id, EaseInOutQuad, TWEEN_MODE_PATROL, false, 22.5, 45, "y", id.y, id.y + 20);
 }
+
+layer_sequence_create("Instances", 0, 0, seq_doves);
