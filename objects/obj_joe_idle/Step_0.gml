@@ -12,7 +12,14 @@ y += vertical_spd;
 
 // Change sprite index if Joe is moving
 if(horizontal_spd != 0 || vertical_spd != 0) {
-	sprite_index = spr_joe_walk;	
+	sprite_index = spr_joe_walk;
+	
+	// walking audio
+	if( !audio_is_playing(snd_step) )
+	{
+		audio_play_sound(snd_step,1,false);
+	}
+	
 } else {
 	sprite_index = spr_joe_idle;	
 }
