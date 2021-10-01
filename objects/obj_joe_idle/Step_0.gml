@@ -10,6 +10,14 @@ vertical_spd = (key_down - key_up) * 3;
 x += horizontal_spd;
 y += vertical_spd;
 
+// Change direction of sprite
+if(keyboard_check(vk_right)) {
+	image_xscale = 1;	
+} 
+else if (keyboard_check(vk_left)) {
+	image_xscale = -1;	
+}
+
 // Change sprite index if Joe is moving
 if(horizontal_spd != 0 || vertical_spd != 0) {
 	sprite_index = spr_joe_walk;
