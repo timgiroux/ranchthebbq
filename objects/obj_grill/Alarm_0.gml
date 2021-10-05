@@ -1,5 +1,16 @@
-/// @description change direction
+/// @description Insert description here
+// You can write your code in this editor
+randomize()
+horizontal_spd = irandom_range(-1*max_spd, max_spd);
+vertical_spd = irandom_range(-1*max_spd, max_spd);
 
-// direction=irandom_range(0, 359)
-// speed=1
-// alarm[0] = 60
+
+if(sprite_index == spr_grill_ranched)
+{
+	horizontal_spd = 0;
+	vertical_spd = 0;
+}
+else
+{
+	alarm[0] = 60
+}
