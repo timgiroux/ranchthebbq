@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_grill",
-    "path": "sprites/spr_grill/spr_grill.yy",
+    "name": "spr_tim",
+    "path": "sprites/spr_tim/spr_tim.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,11 +20,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_joe_idle","path":"objects/obj_joe_idle/obj_joe_idle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -32,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_grill",
+  "name": "obj_tim",
   "tags": [],
   "resourceType": "GMObject",
 }

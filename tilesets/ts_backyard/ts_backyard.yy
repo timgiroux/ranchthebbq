@@ -1,10 +1,10 @@
 {
   "spriteId": {
-    "name": "spr_ts_neighorhood",
-    "path": "sprites/spr_ts_neighorhood/spr_ts_neighorhood.yy",
+    "name": "spr_ts_backyard",
+    "path": "sprites/spr_ts_backyard/spr_ts_backyard.yy",
   },
-  "tileWidth": 10,
-  "tileHeight": 10,
+  "tileWidth": 32,
+  "tileHeight": 32,
   "tilexoff": 0,
   "tileyoff": 0,
   "tilehsep": 0,
@@ -100,7 +100,7 @@
     "path": "folders/Tile Sets.yy",
   },
   "resourceVersion": "1.0",
-  "name": "TileSet1",
+  "name": "ts_backyard",
   "tags": [],
   "resourceType": "GMTileSet",
 }

@@ -8,5 +8,5 @@ if( sprite_index == spr_grill )
 	audio_play_sound( vas[irandom(3)], 0, false );
 }
 // alarm[0] = -1
-sprite_index = spr_aj;
+sprite_index = spr_grill_ranched;
 // speed = 0
