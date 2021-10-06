@@ -16,5 +16,8 @@ for (i = 0; i < instance_number(obj_grill); i += 1)
    {
    enemy_array[i] = instance_find(obj_grill,i);
    }
+   
+horizontal_spd = 0;
+vertical_spd = 0;
 
 check_win(enemy_array);

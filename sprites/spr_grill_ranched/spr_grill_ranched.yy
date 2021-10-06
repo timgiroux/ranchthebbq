@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"db373b9a-1601-481a-8a86-95cdd3dae874","path":"sprites/spr_grill_ranched/spr_grill_ranched.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"db373b9a-1601-481a-8a86-95cdd3dae874","path":"sprites/spr_grill_ranched/spr_grill_ranched.yy",},"LayerId":{"name":"3221fb2c-0dc5-4ec1-827c-00b66e3c7f2f","path":"sprites/spr_grill_ranched/spr_grill_ranched.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_grill_ranched","path":"sprites/spr_grill_ranched/spr_grill_ranched.yy",},"resourceVersion":"1.0","name":"db373b9a-1601-481a-8a86-95cdd3dae874","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"185767ed-36bd-415f-855b-d52ffb003a02","path":"sprites/spr_grill_ranched/spr_grill_ranched.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"185767ed-36bd-415f-855b-d52ffb003a02","path":"sprites/spr_grill_ranched/spr_grill_ranched.yy",},"LayerId":{"name":"6b4bbccf-9a90-4378-bec4-f677c4c91a89","path":"sprites/spr_grill_ranched/spr_grill_ranched.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_grill_ranched","path":"sprites/spr_grill_ranched/spr_grill_ranched.yy",},"resourceVersion":"1.0","name":"185767ed-36bd-415f-855b-d52ffb003a02","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_grill_ranched","path":"sprites/spr_grill_ranched/spr_grill_ranched.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"11088b50-63cb-4ee7-ae2c-0d3aa299cecb","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"db373b9a-1601-481a-8a86-95cdd3dae874","path":"sprites/spr_grill_ranched/spr_grill_ranched.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"2cff384a-fcf6-4815-bfb0-878ce55bb7f9","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"185767ed-36bd-415f-855b-d52ffb003a02","path":"sprites/spr_grill_ranched/spr_grill_ranched.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"3221fb2c-0dc5-4ec1-827c-00b66e3c7f2f","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"6b4bbccf-9a90-4378-bec4-f677c4c91a89","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
