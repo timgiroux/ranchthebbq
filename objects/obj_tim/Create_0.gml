@@ -1,0 +1,1 @@
+TweenFire(id, EaseInOutQuad, TWEEN_MODE_PATROL, false, 30, 120, "y", id.y, id.y + 3);

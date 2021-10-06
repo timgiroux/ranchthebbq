@@ -13,9 +13,9 @@ function check_win(enemy_array){
 	// increment levels complete
 	global.levels_complete++;
 	
-	audio_stop_all();
+	// audio_stop_all();
 
-	if(global.levels_complete >= 3)
+	if(global.levels_complete = 3)
 	{
 		TransitionStart(rm_win, seq_slide_in, seq_slide_out);
 	} else

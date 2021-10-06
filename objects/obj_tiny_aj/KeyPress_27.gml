@@ -1,0 +1,1 @@
+skip_walk_sequence();

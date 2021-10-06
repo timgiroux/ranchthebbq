@@ -1,9 +1,6 @@
-/// @description Insert description here
-// You can write your code in this editor
 randomize()
 horizontal_spd = irandom_range(-1*max_spd, max_spd);
 vertical_spd = irandom_range(-1*max_spd, max_spd);
-
 
 if(sprite_index == spr_grill_ranched)
 {
