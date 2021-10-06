@@ -15,3 +15,6 @@ with(inst_tim){
 }
 
 layer_sequence_create("Instances", 0, 0, seq_doves);
+
+// initialize levels_complete variable
+global.levels_complete = 0;
