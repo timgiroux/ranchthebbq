@@ -19,6 +19,8 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_grill","path":"objects/obj_grill/obj_grill.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":465.0,"y":54.0,"resourceVersion":"1.0","name":"inst_29C9184A","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_grill","path":"objects/obj_grill/obj_grill.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":110.0,"y":272.0,"resourceVersion":"1.0","name":"inst_351E60B5","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_grill","path":"objects/obj_grill/obj_grill.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":313.0,"y":455.0,"resourceVersion":"1.0","name":"inst_5EDB5B62","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_aj","path":"objects/obj_aj/obj_aj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":96.0,"y":384.0,"resourceVersion":"1.0","name":"inst_68B95927","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_tim","path":"objects/obj_tim/obj_tim.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":96.0,"y":352.0,"resourceVersion":"1.0","name":"inst_3F5AEC96","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"grills","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_joe_idle","path":"objects/obj_joe_idle/obj_joe_idle.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":98.0,"y":432.0,"resourceVersion":"1.0","name":"inst_C847B4A","tags":[],"resourceType":"GMRInstance",},
@@ -89,6 +91,8 @@
     {"name":"inst_29C9184A","path":"rooms/rm_backyard_2/rm_backyard_2.yy",},
     {"name":"inst_351E60B5","path":"rooms/rm_backyard_2/rm_backyard_2.yy",},
     {"name":"inst_5EDB5B62","path":"rooms/rm_backyard_2/rm_backyard_2.yy",},
+    {"name":"inst_68B95927","path":"rooms/rm_backyard_2/rm_backyard_2.yy",},
+    {"name":"inst_3F5AEC96","path":"rooms/rm_backyard_2/rm_backyard_2.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

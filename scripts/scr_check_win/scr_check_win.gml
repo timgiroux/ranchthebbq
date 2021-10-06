@@ -13,12 +13,13 @@ function check_win(enemy_array){
 	// increment levels complete
 	global.levels_complete++;
 	
-	if(global.levels_complete = 3)
+	audio_stop_all();
+
+	if(global.levels_complete >= 3)
 	{
-		room_goto(rm_win);
+		TransitionStart(rm_win, seq_slide_in, seq_slide_out);
 	} else
-	{
-		audio_stop_all();
-		room_goto(rm_nbhood);
+	{	
+		TransitionStart(rm_nbhood, seq_slide_in, seq_slide_out);
 	}
 }
