@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "snd_step.mp3",
-  "duration": 0.10449,
+  "soundFile": "snd_ranch_swing.mp3",
+  "duration": 0.313469,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "snd_step",
+  "name": "snd_ranch_swing",
   "tags": [],
   "resourceType": "GMSound",
 }

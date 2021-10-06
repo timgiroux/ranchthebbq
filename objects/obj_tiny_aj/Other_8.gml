@@ -2,4 +2,4 @@
 while(audio_is_playing(snd_dreaded_grill)) {};
 
 // go to next room
-room_goto(determine_next_level());
+TransitionStart(determine_next_level(), seq_slide_in, seq_slide_out);

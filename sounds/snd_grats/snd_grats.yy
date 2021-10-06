@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "snd_step.mp3",
-  "duration": 0.10449,
+  "soundFile": "snd_grats.mp3",
+  "duration": 6.556625,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "snd_step",
+  "name": "snd_grats",
   "tags": [],
   "resourceType": "GMSound",
 }

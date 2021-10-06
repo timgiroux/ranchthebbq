@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_tiny_tim",
-    "path": "sprites/spr_tiny_tim/spr_tiny_tim.yy",
+    "name": "spr_big_tim",
+    "path": "sprites/spr_big_tim/spr_big_tim.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,16 +21,17 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
+    {"isDnD":false,"eventNum":3,"eventType":2,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Rooms",
-    "path": "folders/Rooms.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_tiny_tim",
+  "name": "obj_big_tim_win",
   "tags": [],
   "resourceType": "GMObject",
 }

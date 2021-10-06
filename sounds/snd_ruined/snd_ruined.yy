@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "snd_step.mp3",
-  "duration": 0.10449,
+  "soundFile": "snd_ruined.mp3",
+  "duration": 9.900408,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "snd_step",
+  "name": "snd_ruined",
   "tags": [],
   "resourceType": "GMSound",
 }

@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_tiny_tim",
-    "path": "sprites/spr_tiny_tim/spr_tiny_tim.yy",
+    "name": "spr_ranch",
+    "path": "sprites/spr_ranch/spr_ranch.yy",
   },
   "solid": false,
   "visible": true,
@@ -26,11 +26,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Rooms",
-    "path": "folders/Rooms.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_tiny_tim",
+  "name": "obj_ranch",
   "tags": [],
   "resourceType": "GMObject",
 }
