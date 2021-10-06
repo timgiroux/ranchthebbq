@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "moar.mp3",
-  "duration": 2.115918,
+  "soundFile": "snd_wrath_ranch.mp3",
+  "duration": 2.952,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "moar",
+  "name": "snd_wrath_ranch",
   "tags": [],
   "resourceType": "GMSound",
 }

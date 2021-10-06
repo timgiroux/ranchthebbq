@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "kill_them_all.mp3",
-  "duration": 6.034286,
+  "soundFile": "snd_ranch_death.mp3",
+  "duration": 0.653061,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "kill_them_all",
+  "name": "snd_ranch_death",
   "tags": [],
   "resourceType": "GMSound",
 }

@@ -6,7 +6,7 @@
     "path": "folders/Scripts.yy",
   },
   "resourceVersion": "1.0",
-  "name": "scr_check_win",
+  "name": "scr_next_level",
   "tags": [],
   "resourceType": "GMScript",
 }

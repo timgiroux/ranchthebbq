@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "what_they_deserve.mp3",
-  "duration": 6.426122,
+  "soundFile": "snd_ranch_the_bbq.mp3",
+  "duration": 3.432,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "what_they_deserve",
+  "name": "snd_ranch_the_bbq",
   "tags": [],
   "resourceType": "GMSound",
 }

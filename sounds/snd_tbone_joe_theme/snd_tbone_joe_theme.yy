@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "Tbone_Joe_Theme.mp3",
+  "soundFile": "snd_tbone_joe_theme.mp3",
   "duration": 16.848875,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Tbone_Joe_Theme",
+  "name": "snd_tbone_joe_theme",
   "tags": [],
   "resourceType": "GMSound",
 }

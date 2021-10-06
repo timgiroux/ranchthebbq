@@ -1,6 +1,6 @@
 {
   "compression": 0,
-  "volume": 1.0,
+  "volume": 0.4,
   "preload": false,
   "bitRate": 128,
   "sampleRate": 44100,
@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "dead_ranch.mp3",
-  "duration": 0.653061,
+  "soundFile": "snd_dreaded_grill.mp3",
+  "duration": 9.221224,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "dead_ranch",
+  "name": "snd_dreaded_grill",
   "tags": [],
   "resourceType": "GMSound",
 }

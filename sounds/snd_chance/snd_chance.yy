@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "proud.mp3",
-  "duration": 3.73551,
+  "soundFile": "snd_chance.mp3",
+  "duration": 3.864,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "proud",
+  "name": "snd_chance",
   "tags": [],
   "resourceType": "GMSound",
 }
