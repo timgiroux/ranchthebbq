@@ -1,8 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
-/// @description change direction
-
-
 x += horizontal_spd;
 y += vertical_spd;
 
