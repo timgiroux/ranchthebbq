@@ -4,3 +4,9 @@ function determine_path_start(){
 	else return path_nbhood_3;
 	
 }
+
+function determine_path_offset() {
+		if(global.levels_complete = 0) return 0.02;
+	else if(global.levels_complete = 1) return 0.025;
+	else return 0.04;
+}

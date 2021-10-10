@@ -1,5 +1,5 @@
 with(inst_start_button){
-	TweenEasyMove(1056, 320, 672, 320, 0, 45, EaseOutBounce);
+	TweenEasyMove(1056, 416, 448, 416, 0, 45, EaseOutBounce);
 }
 
 with(inst_joe){
